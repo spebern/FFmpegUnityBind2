@@ -1,0 +1,31 @@
+{
+	"name": "com.ellyality.multimedia.ffmpeg",
+	"displayName":"FFmpeg",
+	"version": "1.0.0",
+    "author": "Elly Multimedia",
+    "unity": "2019.2",
+    "keywords": ["media", "video", "audio", "streaming", "encoding", "decoding", "tool", "ffmpeg"],
+    "category": "engineering",
+    "license": "LICENSE",
+	"description": "Provide a ffmpeg solution, you must import StreamingAssets",
+    "documentationUrl": "https://github.com/Ellyality/package_ffmpeg_bind2/blob/main/README.md",
+    "samples":[
+		{
+            "displayName": "FFmpeg Scene",
+            "description": "The assets for use",
+            "path": "Assets/FFmpegUnityBind2/Demo"
+        },
+		{
+            "displayName": "Video Player",
+            "description": "The assets for use",
+            "path": "Assets/GigaVideoPlayer/Demo"
+        },
+        {
+            "displayName": "StreamingAssets",
+            "description": "The assets for use",
+            "path": "~StreamingAssets"
+        }
+    ],
+    "dependencies": {
+    }
+}
