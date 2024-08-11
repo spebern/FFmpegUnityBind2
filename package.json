@@ -1,0 +1,16 @@
+{
+  "name": "com.myelinh.ffmpegunity",
+  "version": "1.0.0",
+  "displayName": "FFmpeg Unity",
+  "description": "FFmpeg binding for Unity",
+  "unity": "2019.1",
+  "dependencies": {},
+  "keywords": [
+    "ffmpeg",
+    "video",
+    "audio"
+  ],
+  "author": {
+    "name": spebern",
+  }
+}
